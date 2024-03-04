@@ -1,0 +1,58 @@
+15:45:44.152 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+15:45:48.224 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+15:45:54.068 [main] INFO  basepackage.basic - User applies filters
+15:46:02.583 [main] INFO  basepackage.basic - User displays the first five Doctors
+16:13:26.995 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+16:13:27.932 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+16:13:28.434 [main] INFO  basepackage.basic - User clicks on Bangalore option
+16:13:28.732 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+16:13:33.433 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+16:13:37.086 [main] INFO  basepackage.basic - User applies filters
+16:13:41.008 [main] INFO  basepackage.basic - User displays the first five Doctors
+16:33:28.126 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+16:33:29.423 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+16:33:30.288 [main] INFO  basepackage.basic - User clicks on Bangalore option
+16:33:30.752 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+16:33:34.937 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+16:33:41.497 [main] INFO  basepackage.basic - User applies filters
+16:35:19.810 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+16:35:21.109 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+16:35:21.789 [main] INFO  basepackage.basic - User clicks on Bangalore option
+16:35:22.189 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+16:35:26.885 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+16:35:33.824 [main] INFO  basepackage.basic - User applies filters
+16:36:31.359 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+16:36:32.966 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+16:36:33.857 [main] INFO  basepackage.basic - User clicks on Bangalore option
+16:36:34.505 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+16:36:39.085 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+16:36:45.597 [main] INFO  basepackage.basic - User applies filters
+16:36:56.429 [main] INFO  basepackage.basic - User displays the first five Doctors
+16:41:39.302 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+16:41:40.468 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+16:41:41.437 [main] INFO  basepackage.basic - User clicks on Bangalore option
+16:41:42.198 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+16:41:46.730 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+16:41:53.672 [main] INFO  basepackage.basic - User applies filters
+16:42:05.913 [main] INFO  basepackage.basic - User displays the first five Doctors
+16:42:19.729 [main] INFO  basepackage.basic - *****User present on practo.com Website_two**********
+16:42:22.404 [main] INFO  basepackage.basic - User clicks on Surgeries
+16:42:36.787 [main] INFO  basepackage.basic - *****User present on practo.com Website_three**********
+16:42:36.987 [main] INFO  basepackage.basic - User clicks on For Corporates
+16:42:43.802 [main] INFO  basepackage.basic - User clicks on Health and Wellness Plan
+16:42:45.450 [main] INFO  basepackage.basic - User enters all non-email fields in the form
+16:42:45.686 [main] INFO  basepackage.basic - User enters invalid email
+16:42:46.306 [main] INFO  basepackage.basic - validate if Schedule a Demo button is disabled
+16:42:46.715 [main] INFO  basepackage.basic - User enters valid email
+16:42:47.586 [main] INFO  basepackage.basic - User clicks on Schedule a Demo button
+16:45:49.652 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+16:45:50.662 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+16:45:51.308 [main] INFO  basepackage.basic - User clicks on Bangalore option
+16:45:51.655 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+16:45:56.012 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+16:46:01.459 [main] INFO  basepackage.basic - User applies filters
+16:47:04.564 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+16:47:05.620 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+16:47:06.180 [main] INFO  basepackage.basic - User clicks on Bangalore option
+16:47:06.571 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+16:47:10.591 [main] INFO  basepackage.basic - User clicks on Cardiologist option
