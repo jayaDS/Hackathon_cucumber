@@ -20,3 +20,22 @@
 16:07:49.819 [main] INFO  basepackage.basic - User enters valid email
 16:07:50.832 [main] INFO  basepackage.basic - User clicks on Schedule a Demo button
 16:07:52.002 [main] INFO  basepackage.basic - validate if Thank You message is displayed
+12:42:45.029 [main] INFO  basepackage.basic - *****User present on practo.com Website_one**********
+12:42:46.477 [main] INFO  basepackage.basic - User enters city Bangalore in seachbox
+12:42:47.115 [main] INFO  basepackage.basic - User clicks on Bangalore option
+12:42:47.502 [main] INFO  basepackage.basic - User enters Medical specialist Cardiologist in seachbox
+12:43:28.856 [main] INFO  basepackage.basic - User clicks on Cardiologist option
+12:44:15.353 [main] INFO  basepackage.basic - User applies filters
+12:45:04.544 [main] INFO  basepackage.basic - User displays the first five Doctors
+12:46:07.633 [main] INFO  basepackage.basic - *****User present on practo.com Website_two**********
+12:46:32.887 [main] INFO  basepackage.basic - User clicks on Surgeries
+12:46:38.465 [main] INFO  basepackage.basic - User displays the Surgeries list
+12:47:39.688 [main] INFO  basepackage.basic - *****User present on practo.com Website_three**********
+12:47:40.447 [main] INFO  basepackage.basic - User clicks on For Corporates
+12:48:28.584 [main] INFO  basepackage.basic - User clicks on Health and Wellness Plan
+12:48:32.944 [main] INFO  basepackage.basic - User enters all non-email fields in the form
+12:48:33.291 [main] INFO  basepackage.basic - User enters invalid email
+12:48:34.953 [main] INFO  basepackage.basic - validate if Schedule a Demo button is disabled
+12:48:35.974 [main] INFO  basepackage.basic - User enters valid email
+12:48:37.377 [main] INFO  basepackage.basic - User clicks on Schedule a Demo button
+12:49:43.165 [main] INFO  basepackage.basic - validate if Thank You message is displayed
